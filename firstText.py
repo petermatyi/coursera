@@ -1,0 +1,1 @@
+print "Python syntax error e66654123\nPlease turn off your computer."
